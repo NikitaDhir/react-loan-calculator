@@ -14,7 +14,11 @@ This returns a JSON object with information about the monthly payment and the in
 
 
 TO INSTALL IN YOUR COMPUTER:
+
 1.Must have nodejs and npm installed.
+
 2.Clone this repository and run "npm i" in command prompt.
+
 3.Then run "npm start" on your machine.
+
 4.Go to  "http://localhost:3000" to view your app.
